@@ -1,4 +1,3 @@
-import AnalyzeId from "./AnalyzeId";
 import FaceCompare from "./FaceCompare";
 
 const App = () => {
